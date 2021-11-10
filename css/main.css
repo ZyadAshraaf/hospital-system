@@ -1,0 +1,24 @@
+body {
+}
+
+/*Navbar*/
+nav .logo {
+    width: 50px;
+}
+
+nav button .fas {
+    font-size: 30px;
+}
+
+nav .navbar-collapse a {
+    color: white;
+}
+
+nav .navbar-collapse a {
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+nav .navbar-collapse a:hover {
+    font-size: 18px;
+}
